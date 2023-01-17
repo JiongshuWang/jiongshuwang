@@ -4,7 +4,7 @@
 - 💬 Ask me about graph neural network, reinforcement learning and multi-agent is welcome
 - 📫 How to reach me: jiongshuwang@gmail.com
 - 😄 Pronouns: Mr
-- ⚡ Fun fact: time machine
+- ⚡ Fun fact: Interested in time machine
 <!--
 **JiongshuWang/jiongshuwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
